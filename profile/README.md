@@ -12,4 +12,4 @@ it:
 Questa è la pagina ufficiale del [Demorianesimo](demorianesimo.org). \
 Un culto basato sul software libero.
 
-![demor](../demorvuolete.PNG)
+![demor](demorvuolete.PNG)
